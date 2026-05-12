@@ -1,0 +1,56 @@
+{
+  "source": "O*NET Online (https://www.onetonline.org/) -- public domain data published by the U.S. Department of Labor / Employment and Training Administration (USDOL/ETA).",
+  "subset_rationale": "Five domains amenable to objective, file/output-based evaluation in this MVP. Soft domains (Legal, Communication, Education) are deferred until an LLM-as-judge scoring path is added.",
+  "domains": [
+    {
+      "code": "15-0000",
+      "name": "Computer & Mathematical",
+      "description": "Occupations centred on software engineering, scripting, data structures, algorithms, and quantitative reasoning. The natural baseline for an agent with terminal + file tools.",
+      "example_occupations": [
+        "Software Developers",
+        "Computer Programmers",
+        "Data Scientists",
+        "Operations Research Analysts"
+      ]
+    },
+    {
+      "code": "43-0000",
+      "name": "Office & Administrative",
+      "description": "Document processing, structured note-taking, scheduling artefacts, form completion. Tasks produce well-formed files whose structure can be checked deterministically.",
+      "example_occupations": [
+        "Executive Secretaries and Administrative Assistants",
+        "Office Clerks, General",
+        "Records Management Specialists"
+      ]
+    },
+    {
+      "code": "13-0000",
+      "name": "Business & Financial",
+      "description": "Budgeting, financial calculations, structured report generation. Numeric correctness is checkable with tolerance-based comparison against ground-truth values.",
+      "example_occupations": [
+        "Financial Analysts",
+        "Budget Analysts",
+        "Accountants and Auditors"
+      ]
+    },
+    {
+      "code": "11-0000",
+      "name": "Management",
+      "description": "Project plans, resource-allocation artefacts, risk registers, milestone schedules. Evaluated by structural rubric (required sections, required content present).",
+      "example_occupations": [
+        "General and Operations Managers",
+        "Project Management Specialists"
+      ]
+    },
+    {
+      "code": "15-2041",
+      "name": "Data Analysis",
+      "description": "Cleaning datasets, producing summary statistics, generating structured outputs (CSV/JSON), validating against expected numerical results.",
+      "example_occupations": [
+        "Data Scientists",
+        "Statisticians",
+        "Market Research Analysts"
+      ]
+    }
+  ]
+}

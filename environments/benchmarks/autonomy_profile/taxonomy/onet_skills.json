@@ -1,0 +1,96 @@
+{
+  "source": "O*NET Online (https://www.onetonline.org/find/descriptor/browse/4.A/) -- public domain Generalized Work Activities published by USDOL/ETA.",
+  "subset_rationale": "Curated subset of O*NET Generalized Work Activities (4.A.*) that map to the five MVP domains. Each skill lists which domains it commonly belongs to; tasks may reference one or more skills.",
+  "skills": [
+    {
+      "code": "4.A.2.b.2",
+      "name": "Programming",
+      "description": "Writing computer programs for various purposes.",
+      "domains": ["Computer & Mathematical"]
+    },
+    {
+      "code": "4.A.2.a.4",
+      "name": "Analyzing Data or Information",
+      "description": "Identifying the underlying principles, reasons, or facts of information by breaking down information or data into separate parts.",
+      "domains": ["Computer & Mathematical", "Business & Financial", "Data Analysis"]
+    },
+    {
+      "code": "4.A.2.b.6",
+      "name": "Documenting/Recording Information",
+      "description": "Entering, transcribing, recording, storing, or maintaining information in written or electronic form.",
+      "domains": ["Office & Administrative", "Management"]
+    },
+    {
+      "code": "4.A.2.b.3",
+      "name": "Processing Information",
+      "description": "Compiling, coding, categorizing, calculating, tabulating, auditing, or verifying information or data.",
+      "domains": ["Office & Administrative", "Business & Financial", "Data Analysis"]
+    },
+    {
+      "code": "4.A.2.a.2",
+      "name": "Processing Numeric Data",
+      "description": "Calculating, computing, and analyzing numerical information.",
+      "domains": ["Business & Financial", "Data Analysis"]
+    },
+    {
+      "code": "4.A.4.b.5",
+      "name": "Scheduling Work and Activities",
+      "description": "Scheduling events, programs, and activities, as well as the work of others.",
+      "domains": ["Office & Administrative", "Management"]
+    },
+    {
+      "code": "4.A.4.b.4",
+      "name": "Organizing, Planning, and Prioritizing Work",
+      "description": "Developing specific goals and plans to prioritize, organize, and accomplish work.",
+      "domains": ["Management"]
+    },
+    {
+      "code": "4.A.2.b.1",
+      "name": "Estimating the Quantifiable Characteristics of Products, Events, or Information",
+      "description": "Estimating sizes, distances, and quantities; or determining time, costs, resources, or materials needed.",
+      "domains": ["Business & Financial", "Management"]
+    },
+    {
+      "code": "4.A.2.a.3",
+      "name": "Evaluating Information to Determine Compliance with Standards",
+      "description": "Using relevant information and individual judgment to determine whether events or processes comply with laws, regulations, or standards.",
+      "domains": ["Business & Financial", "Management"]
+    },
+    {
+      "code": "4.A.2.b.4",
+      "name": "Updating and Using Relevant Knowledge",
+      "description": "Keeping up-to-date technically and applying new knowledge to your job.",
+      "domains": ["Computer & Mathematical", "Data Analysis"]
+    },
+    {
+      "code": "4.A.3.a.4",
+      "name": "Interacting With Computers",
+      "description": "Using computers and computer systems to program, write software, set up functions, enter data, or process information.",
+      "domains": ["Computer & Mathematical", "Office & Administrative", "Data Analysis"]
+    },
+    {
+      "code": "4.A.4.a.4",
+      "name": "Making Decisions and Solving Problems",
+      "description": "Analyzing information and evaluating results to choose the best solution and solve problems.",
+      "domains": ["Computer & Mathematical", "Management", "Business & Financial"]
+    },
+    {
+      "code": "4.A.1.b.2",
+      "name": "Identifying Objects, Actions, and Events",
+      "description": "Identifying information by categorizing, estimating, recognizing differences or similarities, and detecting changes in circumstances or events.",
+      "domains": ["Data Analysis", "Office & Administrative"]
+    },
+    {
+      "code": "4.A.3.b.6",
+      "name": "Performing Administrative Activities",
+      "description": "Performing day-to-day administrative tasks such as maintaining information files and processing paperwork.",
+      "domains": ["Office & Administrative"]
+    },
+    {
+      "code": "4.A.4.a.1",
+      "name": "Developing Objectives and Strategies",
+      "description": "Establishing long-range objectives and specifying the strategies and actions to achieve them.",
+      "domains": ["Management"]
+    }
+  ]
+}
